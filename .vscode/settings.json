@@ -1,3 +1,8 @@
 {
   "editor.fontFamily": "serif"
+  "editor.fontFamily": "serif",
+  "mini-ai-pilot.endpoint": "http://localhost:1234/v1",
+  "mini-ai-pilot.temperature": 0.2,
+  "translators-copilot.endpoint": "http://localhost:1234/v1",
+  "getting-started-sample.sampleSetting": true
 }
