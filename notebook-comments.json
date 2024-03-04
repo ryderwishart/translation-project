@@ -1,0 +1,213 @@
+[
+    {
+        "id": "e1766ca0-51b9-4fed-ba07-069d367feede",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/GEN.codex#W1sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "Important note.",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                }
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Yes a response!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 3,
+                "contextValue": "canDelete",
+                "body": "Another response. Thanks for the previous comments.",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                }
+            },
+            {
+                "id": 4,
+                "contextValue": "canDelete",
+                "body": "Hello",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 5,
+                "contextValue": "canDelete",
+                "body": "Good point!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "GEN 1:1",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false
+    },
+    {
+        "id": "1b2b1150-2a48-41fe-8569-55e150b6e06e",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/GEN.codex#W1sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "Make sure you don't...",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                }
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Oh right!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                }
+            }
+        ],
+        "verseRef": "GEN 1:3",
+        "collapsibleState": 0,
+        "threadTitle": ""
+    },
+    {
+        "id": "81f2c77c-d67a-469a-8936-a368d158948a",
+        "uri": "file:///Users/ryderwishart/translation-project/resources/sources/ulb.bible",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "I think things",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Yes you do!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 3,
+                "contextValue": "canDelete",
+                "body": "",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "MAT 1:23",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false
+    },
+    {
+        "id": "c149e5e4-e35d-4e30-8e94-ef6e69211435",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "comments here",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Response",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "GEN 1:1",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false,
+        "uri": "file:///Users/ryderwishart/translation-project/drafts/target/GEN.codex"
+    },
+    {
+        "id": "9829d5f1-92c1-4360-aee4-3b04fb9ee114",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/MRK.codex#W1sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "This is my note!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "MRK 1:32",
+        "collapsibleState": 0,
+        "threadTitle": "This is a Mark 1:32 comment",
+        "deleted": true
+    },
+    {
+        "id": "dce1097a-8263-4917-aef5-ce82fbe5435b",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/MAT.codex#W1sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "This is my first note",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Good point!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "MAT 1:1",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false
+    }
+]

@@ -1,0 +1,36 @@
+{
+  "resources": [
+    {
+      "name": "en_tn",
+      "id": 212,
+      "localPath": ".scribe/resources/en_tn",
+      "type": "tn",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/unfoldingWord/en_tn/v78",
+      "version": "v78"
+    },
+    {
+      "name": "en_udb",
+      "id": 6734,
+      "localPath": ".scribe/resources/en_udb",
+      "type": "bible",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/WycliffeAssociates/en_udb/v19-10",
+      "version": "v19-10"
+    },
+    {
+      "name": "es-419_twl",
+      "id": 1581,
+      "localPath": ".scribe/resources/es-419_twl",
+      "type": "twl",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/es-419_gl/es-419_twl/v16.1",
+      "version": "v16.1"
+    },
+    {
+      "name": "es-419_tn",
+      "id": 745,
+      "localPath": ".scribe/resources/es-419_tn",
+      "type": "tn",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/Door43-Catalog/es-419_tn/v64.1",
+      "version": "v64.1"
+    }
+  ]
+}

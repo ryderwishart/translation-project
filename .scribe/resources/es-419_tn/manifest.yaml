@@ -1,0 +1,181 @@
+dublin_core:
+  conformsto: 'rc0.2'
+  contributor:
+    - "Abigail Gonzalez"
+    - "Ada Arroyo"
+    - "Ada Gonzalez"
+    - "Alexandra Afanador Giovanni"
+    - "Amara Enid Lebrón Navarro"
+    - "Ana Gloria Molina Escute"
+    - "Andrea López"
+    - "Andrea Zoe"
+    - "Anellys Ledesma Leon"
+    - "Aquile Sanchez"
+    - "Ashley M. Rivera"
+    - "Blanca Nilda Machado Andujar"
+    - "Camille J. Ortiz Navarro"
+    - "Carlos Colón"
+    - "Carmelo Arbona"
+    - "Celma Barros"
+    - "Cristhian A. Vicente"
+    - "Daihana Cornet"
+    - "Daniel Recalde"
+    - "Deborah Armoa"
+    - "Delia Enid Carrasquillo" 
+    - "Diego A. Carreira"
+    - "Eliezer Adorno"
+    - "Elisa Abigail Medina"
+    - "Elvin W. Díaz Morales"
+    - "Esteban Velez"
+    - "Esther Cedeño"
+    - "Evelyn Cedeño"
+    - "Feliciano Javier Sanchez"
+    - "Figueroa"
+    - "Gabriel Neufeld"
+    - "Génesis Cruz Maurás"
+    - "Genesis Mercado Morales"
+    - "Gerardo Rodriguez"
+    - "Gery Rodriguez"
+    - "Gileisy M. Torres"
+    - "Giovanni Feliciano"
+    - "Gretchen Rivera Alicea"
+    - "Guillermo Ortiz Avevedo"
+    - "Hermes J. Sánchez Guzmán "
+    - "Isabel Rodriguez"
+    - "Ivana Nicole Sanchez"
+    - "Ivette Rivera Castro"
+    - "Ivonne M. Rosa Fernandez"
+    - "Javier A. Sanchez Navarro"
+    - "Jean Frank Brito Calleja"
+    - "Jeanmark N. Rodriguez Colon"
+    - "Jeffrey Feliciano Soto"
+    - "Jorge Hang"
+    - "Josema Oviedo"
+    - "Josué D. Medina Sánchez"
+    - "Kailena A. Marquez"
+    - "Karen Cierra"
+    - "Karina Bogarin"
+    - "Karina Cotto Chevere"
+    - "Kenneth Rosa Rosales"
+    - "Laura Noemí Rosario Negrón"
+    - "Lucia Martinez"
+    - "Lucia"
+    - "Lucy Rios"
+    - "Luis Amarilla"
+    - "Luis Tec."
+    - "Luismatias"
+    - "Luz E. Rios"
+    - "Margarita Benitez-Rivera"
+    - "Margie Rubio"
+    - "Margie"
+    - "Maria Julia Navarro Gonzalez"
+    - "Maria M. Toro"
+    - "Maria Silvia Eizmendi"
+    - "Mariaeiz"
+    - "Marilyn Garcia"
+    - "Mayra E. Torres"
+    - "Melisa Milagros Moroni"
+    - "Merari C. Díaz Lugoviñas"
+    - "Michael A. Rodriguez"
+    - "Miguel Contreras"
+    - "Mileidy Zafiro Díaz Cabello"
+    - "Milka Ayala"
+    - "Miriam Otero"
+    - "Nadia Meza Gonzalez"
+    - "Nadia Salguedolce"
+    - "Nadia Valiente"
+    - "Nadiasal"
+    - "Nancy Oyola"
+    - "Nancy"
+    - "Natalia A. Rodriguez Colon"
+    - "Natalia Vargas"
+    - "Nayelli Lebron Navarro"
+    - "Nereida Mateo"
+    - "Nichole Y. Colon Alvarado"
+    - "Nilda Machado Andujar"
+    - "Nora Duarte"
+    - "Norma I. Navarro"
+    - "Rafael Amill"
+    - "Rivera"
+    - "Rocío Ortiz"
+    - "Rosa Navarro"
+    - "Rosa Torres"
+    - "Sandra Alvarado"
+    - "Sonia N. Diaz"
+    - "Soravel Llanos"
+    - "Tania Alicea Vazquez"
+    - "Tanya M. Valentín Quiñones"
+    - "Trina Calderon"
+    - "Victor Ivan Velez Arzuaga"
+    - "Victor M. Vazquez"
+    - "Victor Vazquez Colon"
+    - "Vivian Del Hoyo"
+    - "Wanda Quinones Santiago"
+    - "Wendy Colon"
+    - "Yanielys Hernández"
+    - "Yari"
+    - "Yarimar Ruíz Rivera"
+    - "Yeni Vicente Francisco"
+    - "Yolanda Davila Hernandez"
+    - "Zahir"
+  creator: 'Door43 World Missions Community'
+  description: 'Open-licensed exegetical notes that provide historical, cultural, and linguistic information for translators. It provides translators and checkers with pertinent, just-in-time information to help them make the best possible translation decisions.'
+  format: 'text/tsv'
+  identifier: 'tn'
+  issued: '2021-05-04'
+  modified: '2021-05-04'
+  language:
+    identifier: 'es-419'
+    title: "Español Latinoamérica"
+    direction: 'ltr'
+  publisher: 'Door43'
+  relation:
+    - 'es-419/ulb'
+    - 'es-419/ta'
+    - 'es-419/tq'
+    - 'es-419/tw'
+    - 'es-419/obs'
+    - 'es-419/obs-tn'
+    - 'el-x-koine/ugnt?v=0.19'
+  rights: 'CC BY-SA 4.0'
+  source:
+    -
+      identifier: 'tn'
+      language: 'en'
+      version: '64'
+  subject: 'TSV Translation Notes'
+  title: 'translationNotes'
+  type: 'help'
+  version: '64.1'
+
+checking:
+  checking_entity:
+    - "Ana Gloria Molina Escuté- Iglesia Catacumba 3-Seminary graduated student"
+    - "Asambleas de Dios Pastor David Sánchez - Iglesia Senda de Amor"
+    - "Tania Alicea- Primera Iglesia Cristiana Discípulos de Cristo, Vega Alta-Biblical Institute Graduated"
+    - "Dorado Margarita Benitez Rivera-La Iglesia de Dios, Seminary graduated (Insituto Biblico Hispano) and translators studies from Traducción Bíblica México"
+    - "Dorado- MIP Church of God Min. to the Military Rev. Carmelo Arbona- Iglesia Roble de Justicia-Seminary Professor- Seminario Teologico del Caribe"
+    - "Dorado Pastor Víctor M. Vázquez Colón-Iglesia Bautista de Palmer"
+    - "Edixa Collazo-Iglesia Senda de Amor"
+    - "Juana Diaz-Seminary Graduated Student AIC"
+    - "Laura Negrón Nieves-Seminary teacher - Iglesia Fuente de Luz Del Poblado Rosario"
+    - "Margarita Benitez Rivera-La Iglesia de Dios, Seminary graduated (Insituto Biblico Hispano) and translators studies from Traducción Bíblica México"
+    - "Margarita Gonzalez- Iglesia Pentecostal de Jesucristo, MI, Juana Diaz-Seminary Graduated Student AIC"
+    - "Pastor Marilyn Rodriguez- Iglesia Ciudad del Reino, Gurabo-M.D. Theology Margarita Gonzalez- Iglesia Pentecostal de Jesucristo, MI"
+    - "Pastor Víctor M. Vázquez Colón-Iglesia Bautista de Palmer, Rio Grande"
+    - "Rafael Amill- Primera Iglesia Cristiana Discípulos de Cristo"
+    - "Rev. Carmelo Arbona- Iglesia Roble de Justicia-Seminary Professor- Seminario Teologico del Caribe"
+    - "Rio Grande Pastor Fidelita Lozada- Iglesia Senda de Amor"
+    - "Roselyn Latorre- Calvary Chapel of Puerto Rico, San Lorenzo-MD Translation- Biblical Institute Bethelem-Chaplain"
+    - "San Lorenzo-MD Translation- Biblical Institute Bethelem-Chaplain"
+    - "Vega Alta Roselyn Latorre- Calvary Chapel of Puerto Rico"
+  checking_level: '3'
+
+projects:
+  -
+    title: 'Titus'
+    versification: ''
+    identifier: 'tit'
+    sort: 56
+    path: './es-419_tn_57-TIT.tsv'
+    categories: [ 'bible-nt' ]

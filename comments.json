@@ -1,0 +1,26 @@
+[
+  {
+    "uri": "untitled:Untitled-2",
+    "range": {
+      "start": {
+        "line": 2,
+        "character": 0
+      },
+      "end": {
+        "line": 2,
+        "character": 0
+      }
+    },
+    "comments": [
+      {
+        "id": 2,
+        "body": "This is a note",
+        "mode": 1,
+        "author": {
+          "name": "vscode"
+        }
+      }
+    ],
+    "collapsibleState": 0
+  }
+]

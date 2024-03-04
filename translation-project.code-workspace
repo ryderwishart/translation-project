@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "translators-copilot.llmEndpoint": "http://localhost:1234/v1",
+    "editor.lineNumbers": "off",
+    "editor.fontFamily": "serif"
+  }
+}
