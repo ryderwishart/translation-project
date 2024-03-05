@@ -8,5 +8,6 @@
   "editor.fontSize": 16,
   "editor.cursorStyle": "line-thin",
   "editor.wordWrap": "on",
-  "editor.lineNumbers": "off"
+  "editor.lineNumbers": "off",
+  "window.zoomPerWindow": false
 }
