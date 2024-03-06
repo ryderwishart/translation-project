@@ -2068,5 +2068,86 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-05T20:59:53.761Z"
+    },
+    {
+        "id": "22528e23-70e3-45b5-9729-8fe565b2cfa4",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-06T19:20:15.101Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-06T19:20:15.101Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-06T19:20:15.101Z"
+            },
+            {
+                "role": "user",
+                "content": "What is this talking about?",
+                "createdAt": "2024-03-06T19:20:37.843Z",
+                "context": {
+                    "selectedText": "This is the record of the geneology of Jesus Christ (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "This is discussing the genealogy of Jesus Christ as mentioned in Matthew 1:1.",
+                "createdAt": "2024-03-06T19:20:49.528Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a genealogy?",
+                "createdAt": "2024-03-06T19:20:58.608Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MRK 2:1 - This is a new word",
+                        "LAM 2:9 - LAM 2:10 This is a word and spleling checking  Unfloding",
+                        "MRK 1:27 - All the people were amazed, so they asked each other, “What is this? A new teaching with authority? He even commands the unclean spirits and they obey him!”",
+                        "MRK 1:24 - saying, “What do we have to do with you, Jesus of Nazareth? Have you come to destroy us? I know who you are. You are the Holy One of God!”",
+                        "MAT 2:1 - This is a new verse I''m translating"
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A genealogy is a record or account of an individual's family lineage, tracing their ancestors and descendants.",
+                "createdAt": "2024-03-06T19:21:01.546Z"
+            },
+            {
+                "role": "user",
+                "content": "How would you translate 'genealogy' into French?",
+                "createdAt": "2024-03-06T19:21:13.712Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "MAT 1:10 - Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+                        "MAT 1:17 - In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "La généalogie",
+                "createdAt": "2024-03-06T19:21:16.412Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-06T19:20:15.178Z"
     }
 ]
