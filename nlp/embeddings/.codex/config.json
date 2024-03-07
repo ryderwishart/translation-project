@@ -4,7 +4,7 @@
   "objects": true,
   "dimensions": 768,
   "backend": "faiss",
-  "offset": 335,
+  "offset": 361,
   "build": {
     "create": "2024-03-01T22:15:42Z",
     "python": "3.11.6",
@@ -14,7 +14,7 @@
     "system": "Darwin (arm64)",
     "txtai": "7.0.0"
   },
-  "update": "2024-03-06T20:43:54Z",
+  "update": "2024-03-07T17:47:22Z",
   "autoid": 26,
   "format": "json"
 }
