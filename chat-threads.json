@@ -2773,5 +2773,29 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-07T18:33:42.291Z"
+    },
+    {
+        "id": "f39a6278-b6d2-4589-af19-616b88207319",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-10T20:22:14.560Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-10T20:22:14.560Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-10T20:22:14.560Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-10T20:22:14.621Z"
     }
 ]
