@@ -2893,5 +2893,64 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-11T01:04:51.038Z"
+    },
+    {
+        "id": "5a13a3ca-0431-48aa-bf22-a0cc9fe8426a",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-11T22:07:50.100Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-11T22:07:50.100Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-11T22:07:50.100Z"
+            },
+            {
+                "role": "user",
+                "content": "Please turn the following into USFM markup. Use proper USFM syntax:",
+                "createdAt": "2024-03-11T22:08:13.434Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": " Please provide more context or specific examples for better guidance on translating such cases.",
+                "createdAt": "2024-03-11T22:08:18.106Z"
+            },
+            {
+                "role": "assistant",
+                "content": "<div type=\"text\">How do we normally translate cases like this?</div>",
+                "createdAt": "2024-03-11T22:08:18.959Z"
+            },
+            {
+                "role": "user",
+                "content": "Chapter 1: The creation of the heavens and earth 1 Bipo bipo tru God i mekim kamap skai na graun na olgeta samting i stap long en.2 Tasol graun i no bin i stap olsem yumi save lukim nau. Nogat. Em i stap nating na i narakain tru. Tudak i karamapim bikpela wara na spirit bilong God i go i kam antap long en. 3 Na God i tok olsem,     “Lait i mas kamap.” Orait lait i kamap. 4 God i lukim lait i gutpela, na em i amamas. Na em i brukim tudak na tulait. Tasol God i tok olsem, 5 Tulait em i kolim “De,” na tudak em i kolim “Nait.” Nait i go pinis na moning i kamap. Em i de namba wan.6-7 Bihain God i tok olsem, “Wanpela banis i mas kamap bilong banisim wara, bai wara i stap long tupela hap.” Orait dispela banis i kamap. God i mekim dispela banis i kamap bilong banisim wara antap na wara daunbilo.",
+                "createdAt": "2024-03-11T22:08:21.715Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "The given text appears to be in USFM format, which is a markup language for representing biblical texts. It seems to follow the structure of a translation project with verses and divisions. If you need help understanding or translating any specific part of this text, please provide more context or examples for better guidance.",
+                "createdAt": "2024-03-11T22:08:26.408Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-11T22:07:50.156Z"
     }
 ]
