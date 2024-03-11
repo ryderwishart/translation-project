@@ -2797,5 +2797,53 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-10T20:22:14.621Z"
+    },
+    {
+        "id": "949f8811-f7ab-48fa-9e98-8629ed7f4eec",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-11T00:04:03.577Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-11T00:04:03.577Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-11T00:04:03.577Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-11T00:04:03.739Z"
+    },
+    {
+        "id": "d7c325be-e31b-4c17-864f-76a3d324b8c9",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-11T00:04:13.191Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-11T00:04:13.191Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-11T00:04:13.191Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-11T00:04:13.230Z"
     }
 ]
