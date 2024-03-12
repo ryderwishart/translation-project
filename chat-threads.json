@@ -2996,6 +2996,21 @@
                 "role": "assistant",
                 "content": "Let me check your current translation drafts...",
                 "createdAt": "2024-03-12T14:33:49.643Z"
+            },
+            {
+                "role": "user",
+                "content": "Does this seem like a good translation, with appropriate content?",
+                "createdAt": "2024-03-12T14:34:13.345Z",
+                "context": {
+                    "selectedText": " This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob\n\n    neural machine suggestion\n            this is another line\n    statistical machine suggestion (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": " It appears to be a part of Jesus Christ's genealogy, focusing on His lineage from Abraham and David. The translation seems accurate in conveying the essential information.",
+                "createdAt": "2024-03-12T14:34:17.048Z"
             }
         ],
         "deleted": false,
