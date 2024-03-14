@@ -3299,5 +3299,72 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-13T22:30:33.166Z"
+    },
+    {
+        "id": "0dfde9de-60c3-4377-a5c2-a338708a6c0e",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:07:52.457Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-14T04:07:52.458Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-14T04:07:52.458Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:07:52.510Z"
+    },
+    {
+        "id": "4da98341-1f4a-4109-81ae-6ca3cc5c4dc8",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:07:52.512Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:07:55.458Z"
+    },
+    {
+        "id": "1:05:17 PM",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:07:52.512Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a genealogy?",
+                "createdAt": "2024-03-14T04:09:08.560Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A genealogy is a record or list of ancestors, showing their lineage from one generation to another.",
+                "createdAt": "2024-03-14T04:09:16.600Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:07:57.751Z"
     }
 ]
