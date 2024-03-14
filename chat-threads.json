@@ -55,7 +55,7 @@
                 "createdAt": "2024-02-27T06:08:38.499Z"
             }
         ],
-        "deleted": false,
+        "deleted": true,
         "createdAt": "2024-02-22T22:05:23.750Z"
     },
     {
@@ -3362,9 +3362,239 @@
                 "role": "assistant",
                 "content": "A genealogy is a record or list of ancestors, showing their lineage from one generation to another.",
                 "createdAt": "2024-03-14T04:09:16.600Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a simpler term for \"genealogy\"?",
+                "createdAt": "2024-03-14T04:09:45.589Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "MAT 1:10 - Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+                        "MAT 1:17 - In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A family tree",
+                "createdAt": "2024-03-14T04:09:48.322Z"
+            }
+        ],
+        "deleted": true,
+        "createdAt": "2024-03-14T04:07:57.751Z"
+    },
+    {
+        "id": "b7afb7da-0f71-4e9b-9a67-01fbf2d0de98",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:10:00.533Z"
             }
         ],
         "deleted": false,
-        "createdAt": "2024-03-14T04:07:57.751Z"
+        "createdAt": "2024-03-14T04:10:06.657Z"
+    },
+    {
+        "id": "7a75c998-0955-4a7e-8627-a2d7cc326c3f",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:10:08.253Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:10:09.675Z"
+    },
+    {
+        "id": "18448aa6-c85e-4e29-96bb-6f6dbaafd8c9",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-14T04:10:16.970Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:10:19.762Z"
+    },
+    {
+        "id": "63bd4101-8801-4cb2-89ad-3d3c853a0505",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is a genealogy?",
+                "createdAt": "2024-03-14T04:11:44.228Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "LAM 2:9 - LAM 2:10 This is a word and spleling checking  Unfloding",
+                        "GEN 2:9 - Na God i mekim graun i kamapim ol kain kain diwai, pikinini bilong ol i gutpela long kaikai. Olgeta dispela diwai i naispela tru. Namel long dispela gaden i gat wanpela diwai i stap, em diwai bilong givim laip. Na i gat narapela diwai tu i stap, em diwai bilong givim gutpela save long wanem samting i gutpela na wanem samting i nogut."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A genealogy is the record of family lineage or ancestry, often tracing back multiple generations.",
+                "createdAt": "2024-03-14T04:11:48.228Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a simpler word or term for \"genealogy\"?",
+                "createdAt": "2024-03-14T04:11:57.407Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "MAT 1:10 - Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+                        "MAT 1:17 - In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "Family tree",
+                "createdAt": "2024-03-14T04:11:59.413Z"
+            },
+            {
+                "role": "user",
+                "content": "Could I say \"this is the family tree of Jesus\" and still communicate the same thing in this verse?",
+                "createdAt": "2024-03-14T04:12:21.449Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "LAM 2:9 - LAM 2:10 This is a word and spleling checking  Unfloding",
+                        "MRK 2:1 - This is a new word",
+                        "GEN 2:9 - Na God i mekim graun i kamapim ol kain kain diwai, pikinini bilong ol i gutpela long kaikai. Olgeta dispela diwai i naispela tru. Namel long dispela gaden i gat wanpela diwai i stap, em diwai bilong givim laip. Na i gat narapela diwai tu i stap, em diwai bilong givim gutpela save long wanem samting i gutpela na wanem samting i nogut."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "Yes, you can say \"this is the family tree of Jesus\" to convey a similar meaning in the context.",
+                "createdAt": "2024-03-14T04:12:26.062Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:11:44.244Z"
+    },
+    {
+        "id": "b7c5b01d-e24d-4b7d-b9cb-069d46096648",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "user",
+                "content": "",
+                "createdAt": "2024-03-14T04:13:04.669Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:16 - and Jacob the father of Joseph, the husband of Mary, of whom was born Jesus, who is called Christ.",
+                        "MRK 3:1 - In this chapter I will outline all the proofs for Jesus''s divinity.",
+                        "MRK 1:1 - This is the beginning of the gospel of Jesus Christ, the Son of God.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by"
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": " This passage from Matthew 1:1-2 describes the family tree of Jesus Christ, tracing his ancestry back to Abraham and including notable figures like Isaac, Jacob, Judah, Perez, and King David.",
+                "createdAt": "2024-03-14T04:13:07.477Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:12:58.002Z"
+    },
+    {
+        "id": "e65671c3-97e6-4293-bdda-1ee6e61470b6",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "user",
+                "content": "What is a genealogy?",
+                "createdAt": "2024-03-14T04:13:39.120Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A genealogy is a record or family tree showing the lineage of an individual, often tracing their ancestors back through generations.",
+                "createdAt": "2024-03-14T04:13:42.317Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a simpler term for \"genealogy\"?",
+                "createdAt": "2024-03-14T04:13:50.054Z",
+                "context": {
+                    "selectedText": "",
+                    "currentVref": "",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "MAT 1:10 - Hezekiah was the father of Manasseh, Manasseh the father of Amon, Amon the father of Josiah,",
+                        "MAT 1:17 - In all, then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "Family tree",
+                "createdAt": "2024-03-14T04:13:52.065Z"
+            },
+            {
+                "role": "user",
+                "content": "Can I say \"the family tree of Jesus Christ\" in this verse?",
+                "createdAt": "2024-03-14T04:14:06.644Z",
+                "context": {
+                    "selectedText": "This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, and Isaac the father of Jacob (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": [
+                        "MAT 1:1 - This is the record of the geneology of Jesus Christ, the son of David, the son of Abraham:  Abraham became the father of Isaac, who\n\n    neural machine suggestion\n            this is another line describing the family tree of jesus\n    statistical machine",
+                        "MAT 1:13 - Zerubbabel the father of Abiud, Abiud the father of Eliakim, and Eliakim the father of Azor.",
+                        "MAT 1:2 - Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.  Judah was the father of Perez and Zerah by Tamar, Perez was the father of Christ,  He was born during the reign of King David.  The lineage continues through the sons of  Solomon by",
+                        "LAM 2:9 - LAM 2:10 This is a word and spleling checking  Unfloding",
+                        "GEN 2:9 - Na God i mekim graun i kamapim ol kain kain diwai, pikinini bilong ol i gutpela long kaikai. Olgeta dispela diwai i naispela tru. Namel long dispela gaden i gat wanpela diwai i stap, em diwai bilong givim laip. Na i gat narapela diwai tu i stap, em diwai bilong givim gutpela save long wanem samting i gutpela na wanem samting i nogut."
+                    ]
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "Yes",
+                "createdAt": "2024-03-14T04:14:09.649Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-14T04:13:09.508Z"
     }
 ]
