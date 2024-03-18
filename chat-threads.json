@@ -3716,5 +3716,44 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-18T19:16:38.864Z"
+    },
+    {
+        "id": "e599d997-8ad2-47e2-8e43-9758787b510f",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-18T20:16:23.413Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-18T20:16:23.415Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-18T20:16:23.415Z"
+            },
+            {
+                "role": "user",
+                "content": "Who is this Isaac person being referred to?",
+                "createdAt": "2024-03-18T20:16:42.453Z",
+                "context": {
+                    "selectedText": "Isaac the father of Jaco (MAT 1:2)",
+                    "currentVref": "MAT 1:2",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "Isaac is mentioned as the father of Jacob in Matthew 1:2.",
+                "createdAt": "2024-03-18T20:16:50.294Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-18T20:16:23.491Z"
     }
 ]
