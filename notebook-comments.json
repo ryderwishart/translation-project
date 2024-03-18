@@ -209,5 +209,36 @@
         "collapsibleState": 0,
         "threadTitle": "",
         "deleted": false
+    },
+    {
+        "id": "4199f914-b1fd-48e7-b00b-c58669a59b3c",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/GEN.codex#W1sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "There's a problem in our draft",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Oh good point!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "GEN 1:4",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false
     }
 ]
