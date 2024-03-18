@@ -31,6 +31,22 @@
       "type": "tn",
       "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/Door43-Catalog/es-419_tn/v64.1",
       "version": "v64.1"
+    },
+    {
+      "name": "en_tw",
+      "id": 323,
+      "localPath": ".scribe/resources/en_tw",
+      "type": "tw",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/unfoldingWord/en_tw/v78",
+      "version": "v78"
+    },
+    {
+      "name": "en_tq",
+      "id": 270,
+      "localPath": ".scribe/resources/en_tq",
+      "type": "tq",
+      "remoteUrl": "https://git.door43.org/api/v1/catalog/entry/unfoldingWord/en_tq/v78",
+      "version": "v78"
     }
   ]
 }
