@@ -1,6 +1,6 @@
 {
     "format": "scripture burrito",
-    "projectName": "Test project",
+    "projectName": "Test",
     "meta": {
         "version": "0.0.0",
         "category": "Scripture",
@@ -10,7 +10,7 @@
             "userName": "ryder"
         },
         "defaultLocale": "en",
-        "dateCreated": "Thu Feb 15 2024",
+        "dateCreated": "Mon Mar 18 2024",
         "normalization": "NFC",
         "comments": []
     },
@@ -32,16 +32,16 @@
             "projectStatus": "source"
         },
         {
-            "tag": "hin",
+            "tag": "fra",
             "name": {
-                "hi": "Hindi"
+                "fr": "French"
             },
-            "iso2b": "hin",
-            "iso2t": "hin",
-            "iso1": "hi",
+            "iso2b": "fre",
+            "iso2t": "fra",
+            "iso1": "fr",
             "scope": "individual",
             "type": "living",
-            "refName": "Hindi",
+            "refName": "French",
             "comment": null,
             "projectStatus": "target"
         }
