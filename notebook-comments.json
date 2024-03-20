@@ -240,5 +240,36 @@
         "collapsibleState": 0,
         "threadTitle": "",
         "deleted": false
+    },
+    {
+        "id": "6d25248a-283f-4a1a-b7c3-737c40695cee",
+        "uri": "vscode-notebook-cell:/Users/ryderwishart/translation-project/drafts/target/MAT.codex#W4sZmlsZQ%3D%3D",
+        "canReply": true,
+        "comments": [
+            {
+                "id": 1,
+                "contextValue": "canDelete",
+                "body": "the draft is terrible so far. Needs work!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            },
+            {
+                "id": 2,
+                "contextValue": "canDelete",
+                "body": "Yeah good point!",
+                "mode": 1,
+                "author": {
+                    "name": "vscode"
+                },
+                "deleted": false
+            }
+        ],
+        "verseRef": "MAT 2:3",
+        "collapsibleState": 0,
+        "threadTitle": "",
+        "deleted": false
     }
 ]

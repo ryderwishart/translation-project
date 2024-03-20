@@ -3971,5 +3971,44 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-19T05:00:13.080Z"
+    },
+    {
+        "id": "d595bb45-dfc4-488a-888d-a9b113c30ea6",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-20T04:36:27.859Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-20T04:36:27.859Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-20T04:36:27.859Z"
+            },
+            {
+                "role": "user",
+                "content": "Is this a good translation of this verse?",
+                "createdAt": "2024-03-20T04:36:50.093Z",
+                "context": {
+                    "selectedText": "MAT 2:2 Les merciful sont macarieux   (MAT 2:2)",
+                    "currentVref": "MAT 2:2",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": " It seems to be a partial translation, missing some context and proper punctuation. The original verse is \"Matthew 2:2: For we have seen his star in the east, and we came to worship him.\"",
+                "createdAt": "2024-03-20T04:36:58.857Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-20T04:36:27.902Z"
     }
 ]
