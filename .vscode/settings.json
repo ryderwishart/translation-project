@@ -5,7 +5,7 @@
   "translators-copilot.endpoint": "http://localhost:1234/v1",
   "translators-copilot.api_key": "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",
   "getting-started-sample.sampleSetting": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 12,
   "editor.cursorStyle": "line-thin",
   "editor.wordWrap": "on",
   "editor.lineNumbers": "off"
