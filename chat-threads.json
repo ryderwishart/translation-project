@@ -4010,5 +4010,44 @@
         ],
         "deleted": false,
         "createdAt": "2024-03-20T04:36:27.902Z"
+    },
+    {
+        "id": "01332231-dea6-4cc7-8af6-3ff1184034b6",
+        "canReply": true,
+        "collapsibleState": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "This is a chat between a helpful Bible translation assistant and a Bible translator. The assistant will provide helpful answers and suggestions to the translator, often relying on the translator's current project and reference resources. The translator will ask questions and provide context to the assistant. The translator's aim is to be consistent and faithful in a fairly literalistic rendering of the source text.",
+                "createdAt": "2024-03-20T05:29:57.689Z"
+            },
+            {
+                "role": "user",
+                "content": "How do we normally translate cases like this?",
+                "createdAt": "2024-03-20T05:29:57.690Z"
+            },
+            {
+                "role": "assistant",
+                "content": "Let me check your current translation drafts...",
+                "createdAt": "2024-03-20T05:29:57.690Z"
+            },
+            {
+                "role": "user",
+                "content": "What is a genealogy?",
+                "createdAt": "2024-03-20T05:30:23.167Z",
+                "context": {
+                    "selectedText": "the record of the genealogy of Jesus Christ (MAT 1:1)",
+                    "currentVref": "MAT 1:1",
+                    "relevantContextItemsFromEmbeddings": []
+                }
+            },
+            {
+                "role": "assistant",
+                "content": "A genealogy is a record or list of ancestors, showing their lineage and family relationships.",
+                "createdAt": "2024-03-20T05:30:26.760Z"
+            }
+        ],
+        "deleted": false,
+        "createdAt": "2024-03-20T05:29:57.742Z"
     }
 ]
